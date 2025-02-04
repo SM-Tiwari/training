@@ -1,2 +1,4 @@
 learning git 
 devops training
+
+04/02/2025
